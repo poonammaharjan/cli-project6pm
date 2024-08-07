@@ -1,6 +1,15 @@
 import sqlite3
 import csv
 
+# download and install git
+# create account in github
+# git config --global user.name "Poonam maharjan"
+# git config --global user.email "poonammaharjan838@gmail.com"
+# go to project folder
+# git inti
+# git add
+# git commit -m "initial commit"
+# git push origin
 
 def create_connection():
     try:    
